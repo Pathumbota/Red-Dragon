@@ -47,7 +47,7 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
-    success: 'Done ✅',
+    success: 'hari ✅',
     admin: 'Only Admins can use it!😉',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
